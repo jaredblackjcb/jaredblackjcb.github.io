@@ -11473,6 +11473,7 @@ pre {
 
 .header .container .infos {
   margin-top: 120px;
+  line-height: 1.2;
 }
 
 .header .container .infos .subtitle {
@@ -11534,7 +11535,7 @@ pre {
             justify-content: center;
   }
   .header .container .infos {
-    margin-top: 0;
+    margin-top: 60px;
   }
   .header .container .img-holder {
     display: none;
